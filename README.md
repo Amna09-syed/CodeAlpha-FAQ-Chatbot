@@ -100,11 +100,7 @@ CodeAlpha-FAQ-Chatbot/
 
 ---
 
-## 📸 Output Preview
 
-![Chatbot Output](images/chatbot_output.png)
-
----
 
 ## 🔧 How to Extend
 

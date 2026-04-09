@@ -137,7 +137,7 @@ This project demonstrates:
 
 ## 📸 Output Preview
 
-![Chatbot UI](images/chatbot_output.png)!![WhatsApp Image 2026-04-09 at 7 51 26 PM](https://github.com/user-attachments/assets/21d6ccee-5df9-49af-aff6-6478acb47a33)
+![WhatsApp Image 2026-04-09 at 7 51 26 PM](https://github.com/user-attachments/assets/21d6ccee-5df9-49af-aff6-6478acb47a33)
 
 ![WhatsApp Image 2026-04-09 at 7 52 05 PM](https://github.com/user-attachments/assets/30ac778d-713f-4665-a8af-154c56de83f7)
 
